@@ -24,9 +24,9 @@ public class TestBrowsers {
 		
 		//InternetExplorerDriver driver = new InternetExplorerDriver();
 		
-		//System.setProperty("webdriver.edge.driver", "C:\\Users\\SESA543238\\Desktop\\Udemy Learning\\Selenium Executables\\edgedriver_win64\\msedgedriver.exe");
+		System.setProperty("webdriver.edge.driver", "C:\\Users\\SESA543238\\Desktop\\Udemy Learning\\Selenium Executables\\edgedriver_win64\\msedgedriver.exe");
 		
-		//EdgeDriver driver= new EdgeDriver();
+		EdgeDriver driver= new EdgeDriver();
 		
 		
 		driver.get("http://www.way2automation.com/");
